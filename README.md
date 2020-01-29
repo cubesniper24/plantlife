@@ -8,7 +8,7 @@ The original nodeunblocker.com is now gone, but it's now easier than ever to dep
 [![Deploy to Bluemix](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/nfriedly/nodeunblocker.com)
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 [![Deploy to AWS](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/nfriedly/nodeunblocker.com)
-
+[![Run on Repl.it](https://repl.it/badge/github/M1k3L1m3/plantlife)](https://repl.it/github/M1k3L1m3/plantlife)
 
 ## Running the website on your computer
 
